@@ -95,8 +95,8 @@ An **Explicit Intent** names the exact component (Activity) to start, using the 
 ```java
 /*
 Program to find factorial using Explicit Intent.
-Developed by: <YOUR NAME>
-Registration Number: <YOUR REG NO>
+Developed by: GURURAGAV PONJEEVITH V
+Registration Number: 212223220027
 */
 package com.example.explicitintent;
  
